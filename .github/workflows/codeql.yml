@@ -1,9 +1,5 @@
-from docx import Document
-
-# Create a new Document
 doc = Document()
 
-# Add Title
 doc.add_heading('Proposal: Implementing Chatbots for Public Service Delivery in Kaduna State', 0)
 
 # Add Executive Summary
